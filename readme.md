@@ -1,0 +1,3 @@
+# Pythonfinder
+
+Extractor de iconos con interfaz qt, en desarrollo...
